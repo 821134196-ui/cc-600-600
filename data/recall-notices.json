@@ -1,0 +1,18 @@
+[
+  {
+    "noticeNo": "RC-2026-0001",
+    "batchNo": "B2025-CN-003",
+    "productName": "香奈儿五号香水 50ml",
+    "reason": "该批次检出微量致敏杂质，厂商主动召回",
+    "noticeDate": "2026-10-01",
+    "source": "品牌方召回系统(模拟)"
+  },
+  {
+    "noticeNo": "RC-2026-0002",
+    "batchNo": "B2026-XX-999",
+    "productName": "某品牌卸妆水 200ml",
+    "reason": "微生物指标超标",
+    "noticeDate": "2026-10-03",
+    "source": "市监局通报(模拟)"
+  }
+]
